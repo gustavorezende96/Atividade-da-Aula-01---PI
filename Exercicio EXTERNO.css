@@ -1,0 +1,29 @@
+.laranja{
+    background-color: #35393d;
+    height: 600px;
+    width: 600px;
+
+}
+.verdee{
+    background-color: #5cfa00;
+    height: 70%;
+    width: 70%;   
+}
+p{
+    background-color: rgb(103, 121, 4);
+    color: rgb(108, 191, 216);
+    font-size: 34px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.azulclaro{
+    height:45vh;
+    width: 50%;
+    background-color: rgb(218, 76, 159);
+}
+.vermelhaa {
+    width: 78vw;
+    height: 50%;
+    background-color: #f3d7bd;
+}
